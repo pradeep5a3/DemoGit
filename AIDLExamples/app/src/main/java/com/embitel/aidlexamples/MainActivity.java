@@ -3,6 +3,7 @@ package com.embitel.aidlexamples;
 import android.content.Context;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 //import
 
 public class MainActivity extends AppCompatActivity {
