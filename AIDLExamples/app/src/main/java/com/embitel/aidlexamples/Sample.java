@@ -5,7 +5,5 @@ package com.embitel.aidlexamples;
  */
 
 public class Sample {
-    Sample(){
-
-    }
+    
 }
