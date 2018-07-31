@@ -1,8 +1,1 @@
 "My name is Pradeep G" Added new line now 
-
-Added in dev Branch via tag v1.0
-
-Developer 2 changed
-
-Developer 1 also changed.
-
