@@ -2,5 +2,7 @@
 
 Added in dev Branch via tag v1.0
 
-Developer 2 changed.
+Developer 2 changed
+
+Developer 1 also changed.
 
